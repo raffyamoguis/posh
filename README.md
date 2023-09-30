@@ -6,8 +6,8 @@ A sample landing page of a Real State Company built using React.
 
 ### Clone the repo.
 ```bash
-git clone https://github.com/raffyamoguis/movie-library-app.git](https://github.com/raffyamoguis/realestater.git
-cd movie-library-app
+git clone https://github.com/raffyamoguis/posh.git
+cd posh
 ```
 ### Install dependencies.
 ```bash
