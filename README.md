@@ -20,6 +20,10 @@ npm start
 ```
 ## Screenshots
 
+<p align="center">
+  <img src="https://github.com/raffyamoguis/posh/blob/main/screenshots/mobile.png" />
+  <img src="https://github.com/raffyamoguis/posh/blob/main/screenshots/web.png" />
+</center>
 
 ## Library used
 
