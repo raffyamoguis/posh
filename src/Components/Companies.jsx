@@ -36,7 +36,7 @@ const Companies = () => {
               mt: 2,
             }}
           >
-            More than 45,000 trust POSH (Property of Sale Home)
+            More than 45,000 trust POSh (Property of Sale Home)
           </Typography>
         </CustomBox>
 
