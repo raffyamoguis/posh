@@ -45,7 +45,7 @@ const Hero = () => {
                 mb: 4,
               }}
             >
-              Welcome to Besnik Agency
+              Welcome to POSh (Property of Sale Home)
             </Typography>
             <Title variant="h1">
               Discover a place where you'll love to live.
